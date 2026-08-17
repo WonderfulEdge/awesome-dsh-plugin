@@ -1,0 +1,6 @@
+url: https://github.com/WonderfulEdge/dsh-publish-skill
+name: WonderfulEdge/dsh-publish-skill
+category: skill
+description:
+  en: 'Registers a user-only /publish-skill workflow for XDSP frontend releases: target-version validation, full/single/resume package selection, serial transpile and publish steps, and stop-on-failure reporting.'
+  zh: '为 XDSP 前端发版注册仅限用户调用的 /publish-skill 流程：校验目标版本，选择全量、单模块或续发模块，串行执行转译与发布步骤，并在失败时立即停止和汇总。'

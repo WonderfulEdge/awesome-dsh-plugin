@@ -883,6 +883,7 @@ dsh plugin --profile web add dshmarket
 - [tt-a1i/archify#integrations/deepseek-harness](https://github.com/tt-a1i/archify/tree/main/integrations/deepseek-harness) — 从仓库或系统描述生成经过校验的自包含交互式架构图、流程图、时序图、数据流图和生命周期图。
 - [tuogusa/dsh-skill-manager](https://github.com/tuogusa/dsh-skill-manager) — 在 Web 设置面板中浏览、搜索并删除用户技能。
 - [Vladimir-Human/humanizer-ru#dsh](https://github.com/Vladimir-Human/humanizer-ru/tree/main/dsh) — 清理俄语文本中的 AI 痕迹：识别聊天机器人复制粘贴残留（ChatGPT、Gemini、Grok、Perplexity、DeepSeek），并按需改写为自然行文；39 个正则标记配证据登记表，离线运行，纯文本 bundle。
+- [WonderfulEdge/dsh-publish-skill](https://github.com/WonderfulEdge/dsh-publish-skill) — 为 XDSP 前端发版注册仅限用户调用的 /publish-skill 流程：校验目标版本，选择全量、单模块或续发模块，串行执行转译与发布步骤，并在失败时立即停止和汇总。
 - [xiongjiamu/dsh-atomgit](https://github.com/xiongjiamu/dsh-atomgit) — AtomGit 插件包：内置六个 AtomGit 技能（Issue 规划、Issue 实现、PR 审查、PR 合并、CLI 版本发布、GitHub 镜像），并集成 ag CLI 与平台托管的 MCP 工具（仓库/分支/Issue/PR/搜索）。
 - [xsoc1/math-research-dsh](https://github.com/xsoc1/math-research-dsh) — 严谨开放数学研究套件：4 个 agent skill（rigorous-open-math-research、manage-math-research-program、math-research-workflow、lean-verify），覆盖对抗性审计的定理求解、研究项目管理、流水线编排与 Lean 4 形式化审计；CI 测试与机械式上游同步。
 - [YTxue/dsh-skill-manager-ytxue](https://github.com/YTxue/dsh-skill-manager-ytxue) — 设置侧边栏的 Skill 管理器：池与启用目录启停、文件夹批量导入（重名询问）、状态驱动一键规范检查与自动修复、系统级/项目级来源标识。
